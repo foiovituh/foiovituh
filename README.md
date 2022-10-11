@@ -1,16 +1,20 @@
-### Hi there 👋
+## `System.out.println("no, I will not say hello world...");`
 
-<!--
-**foiovituh/foiovituh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Java back-end developer and information security enthusiast<br>
+☁️ Currently working developing cloud applications with AWS, Azure and GCP
 
-Here are some ideas to get you started:
+#### Favorite tools/frameworks
+- 🔧 Shell
+- 🐳 Docker
+- 🅰️ Angular
+- ⚛️ Quarkus
+- 💾 Hibernate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Event participations/Social links
+- TDC 2021 - Java Track International
+- TDC 2022 - Product Management
+- Twitter <a href="https://twitter.com/vituohto" target="_blank">@vituohto</a>
+
+#### Articles (portuguese)
+- <a href="https://medium.com/@vituohto/java-collections-qual-interface-utilizar-a41b8b5c8aac" target="_blank">Java Collections | Qual interface utilizar?</a>
+- <a href="https://medium.com/@vituohto/transfer%C3%AAncia-de-zona-dns-axfr-um-resumo-detalhado-da-vulnerabilidade-7ac99e21620b" target="_blank">Transferência de zona DNS (AXFR) | Um resumo detalhado da vulnerabilidade</a>
