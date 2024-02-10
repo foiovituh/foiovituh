@@ -13,7 +13,6 @@
 #### Event participations/Social links
 - TDC 2021 - Java Track International
 - TDC 2022 - Product Management
-- Twitter <a href="https://twitter.com/vituohto" target="_blank">@vituohto</a>
 
 #### Articles (portuguese)
 - <a href="https://medium.com/@vituohto/java-collections-qual-interface-utilizar-a41b8b5c8aac" target="_blank">Java Collections | Qual interface utilizar?</a>
