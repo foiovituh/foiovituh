@@ -1,4 +1,4 @@
-## `System.out.println("no, I will not say hello world...");`
+## `System.out.println("saying Hello World saved me");`
 
 ☕ Java back-end developer and information security enthusiast<br>
 ☁️ Currently working developing cloud applications with AWS, Azure, GCP and OCI
