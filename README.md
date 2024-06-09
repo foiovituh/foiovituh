@@ -1,13 +1,12 @@
 ## `System.out.println("no, I will not say hello world...");`
 
 ☕ Java back-end developer and information security enthusiast<br>
-☁️ Currently working developing cloud applications with AWS, Azure and GCP
+☁️ Currently working developing cloud applications with AWS, Azure, GCP and OCI
 
 #### Favorite tools/frameworks
 - 🔧 Shell
 - 🐳 Docker
-- 🅰️ Angular
-- ⚛️ Quarkus
+- 🍃 Spring
 - 💾 Hibernate
 
 #### Event participations/Social links
