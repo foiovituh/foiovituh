@@ -1,9 +1,11 @@
 ## `System.out.println("saying Hello World saved me");`
 
-☕ Java back-end developer and information security enthusiast<br>
+☕ Back-end developer and information security enthusiast<br>
 ☁️ Currently working developing cloud applications with AWS, Azure, GCP and OCI
 
 #### Favorite tools/frameworks
+- 🦫 Go
+- ☕ Java
 - 🔧 Shell
 - 🐳 Docker
 - 🍃 Spring
