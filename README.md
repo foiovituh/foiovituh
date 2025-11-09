@@ -1,16 +1,25 @@
-## Hi there 👋
+## $\sum_{bug=0}^{\infty} fix(bug) = perfection$
 
-<!--
-**foiovituh/foiovituh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️️ Back-end developer, multi-cloud solutions engineer and mathematics enthusiast<br>
+☁️ Helping companies optimize cloud environments for cost, security, and compliance
 
-Here are some ideas to get you started:
+#### Programming languages:
+- 🔵 Go
+- 🐚 Bash
+- ☕ Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Platforms I use:
+- 🟠 AWS
+- ⚪ GCP
+- 🔴 OCI
+- 🔵 Azure
+
+#### Focus areas:
+- 🌐 DFIR
+- 🔍 OSINT
+- 🧠 AI Prompt optimization
+- ♾️ Computational mathematics
+
+#### Articles I've written (portuguese):
+- 📚 <a href="https://medium.com/@ohtoaki/java-collections-qual-interface-utilizar-a41b8b5c8aac" target="_blank">Qual, quando e como utilizar cada collection do Java?</a>
+- 📜 <a href="https://medium.com/@ohtoaki/transfer%C3%AAncia-de-zona-dns-axfr-um-resumo-detalhado-da-vulnerabilidade-7ac99e21620b" target="_blank">Transferência de zona DNS (AXFR) | Um resumo detalhado da vulnerabilidade</a>
