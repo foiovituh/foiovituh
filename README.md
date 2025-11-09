@@ -1,4 +1,4 @@
-## $\sum_{bug=0}^{\infty} fix(bug) = perfection$
+## $\sum_{bug=1}^{\infty} fix(bug) = perfection$
 
 ⚙️️ Back-end developer, multi-cloud solutions engineer and mathematics enthusiast<br>
 ☁️ Helping companies optimize cloud environments for cost, security, and compliance
