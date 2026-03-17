@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🕸️ Creator and lead developer of LIBYS: Sovereign reputation via delegated trust graphs
 
-<!--
-**foiovituh/foiovituh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I do:
+⚙️️ Multi-cloud engineer / Backend developer<br>
+☁️ Helping companies optimize cloud environments for cost, security, and compliance
 
-Here are some ideas to get you started:
+#### Programming languages:
+- 🔵 Go
+- 🐚 Bash
+- ☕ Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Platforms I use:
+- 🟠 AWS
+- ⚪ GCP
+- 🔴 OCI
+- 🔵 Azure
+
+#### Focus areas:
+- 🌐 Distributed systems
+- 🔒 Information security
+- 💰 Financial mathematics
