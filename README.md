@@ -1,4 +1,4 @@
-## 🕸️ Creator and lead developer of LIBYS: Sovereign reputation via delegated trust graphs
+## 🕸️ Creator of LIBYS: Sovereign reputation via delegated trust graphs
 
 #### What I do:
 ⚙️️ Multi-cloud engineer / Backend developer<br>
